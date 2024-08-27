@@ -21,4 +21,4 @@ This project provides a Python-based tool for performing ARP spoofing and networ
 3. The tool will initiate ARP spoofing and packet sniffing.
 
 ```sh
-python mitmARPSpoof.py
+python3 mitmARPSpoof.py
